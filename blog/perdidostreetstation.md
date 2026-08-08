@@ -30,4 +30,4 @@ Which brings me to the shortcoming of this book which I find the most disappoint
 
 Although I was plenty disappointed with the way that the events of *Perdido Street Station* played out, I remain dazzled by it's brilliant and innovative worldbuilding and approach to fantasy writing overall. This review might feel unfairly negative for all the praise I've given, but trust me when I say that Miéville's writing is really spectacular, and is best left to speak for itself — as much as I have plenty to complain about, I was still an avid consumer. In short, I'll be excited to return to Miéville's writing and the city of New Crobuzon sometime soon. Despite this novel's shortcomings, it should be considered essential reading for any fan of postmodern fantasy, and will certainly dazzle you as it did me. So long!
 
-[back to blog](https://lizzierambles.com/blog)
+[back to blog](https://lizzierambles.net/blog)
