@@ -17,4 +17,4 @@ I don't really have an answer to this. It's just an expression of my discomfort 
 
 (The research in this article was based on Jon Peterson's *The Elusive Shift*, as well as his blog post on Western Gunfight which can be found [here](https://playingattheworld.blogspot.com/2021/02/western-gunfight-1970-first-rpg.html). Gideon of the blog Awesome Lies also wrote an excellent blog series on the topic which contributed to this article, which can be found [here](https://awesomeliesblog.wordpress.com/2024/02/04/gunfighting-part-one/). You can buy a copy of the Western Gunfight rules from Jon Curry [here](https://www.amazon.com/Old-West-Skirmish-Wargames-Wargaming/dp/B0B19XFHJ4) on Amazon, and also read the *Wargamer's Newsletter* archive, maintained by John Haines, [here](https://fourcats.co.uk/mags/index.html).)
 
-[back to blog](https://lizzierambles.net/blog)
+[back to blog](/blog)
