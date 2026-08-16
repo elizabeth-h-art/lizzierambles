@@ -6,4 +6,4 @@ welcome to my blog! the main content here will probably consist of book and albu
 
 15 August 2026: [Bristol's Roleplaying Heritage](/blog/bristolroleplaying)
 
-[home](/root/index) [blog](/blog) [contact](/contact)
+[home](/index) [blog](/blog) [contact](/contact)
