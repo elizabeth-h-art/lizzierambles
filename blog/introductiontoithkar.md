@@ -1,6 +1,6 @@
 # Article
 
-![[Ithkar.jpeg]]
+![Map of Ithkar](/assets/Ithkar.jpeg)
 
 > This is a fragile world. Hurtling through existence in orbit of the gas giant Inmana, Ithkar Ithkar harbours a fragment of human culture assailed on all sides from the Underworld, the innumerable planes of the Cosmic Well, and the four other moons that circulate in Inmana's orbit. But despite all of this, the cultures that rise and fall on Ithkar's surface continue to persist out of nothing less than spite, bargaining with the forces that would conspire to erase them. This is a mostly lawful world, in a sea of chaos and ambiguity.
 > In the small corner of Ithkar known as the Arythian Basin, the Amict-Kocir, Okhurvan, and Arythian empires have all come and gone. Now, like the noble phoenix, the Adgrath Republic rises from the ashes of the Adgrath Empire that preceded it. A delicate balance brought on by conflict and compromise, it, too, is assailed on all sides; by a disgruntled emperor, by monarchist and radical factions within, by the Church, and by the merchants, whose ideological victory in the war has failed to satiate their greed. The Nyreans, oppressed for many years under the hand of the Empire, have done well in their end of the bargain, though many do not trust the fragile peace.
@@ -38,7 +38,7 @@ The **Tharroski** moved into the land which is now Adgrath prior to the arrival 
 **Arythians** have olive skin and an average build. They have few unique physical characteristics, although as with all human groups, display a unique and distinct culture. They have historically dominated the area that has come to be known as the Arythian Basin. The Adgrathi people are a subset of this group which speak the Adgrathi language and inhabit the north of the Arythian Basin.
 # Conflict & Strife
 
-![[Adgrath_Republic_and_Surroundings.jpeg]]
+![Map of the Adgrath Republic and surroundings](/assets/Adgrath_Republic_and_Surroundings.jpeg)
 
 Conflict between humans takes all forms in Ithkar, and takes place for ideological, religious, economic, and other reasons. In the Adgrath Republic, the area which this project focuses on, tensions run high between a milleu of competing factions. The Republic was recently proclaimed following the Adgrathi Civil War, which saw the expulsion of the ruling House Castor and the proclamation of republicanism, although House Castor are conniving to return to their position. The war ended with an uneasy peace between republican factions, financed by the wealthy Syndicate of Adgrathi Merchants, and the remaining loyalist noble houses — the most notable being House Kaervos and House Edarc. 
 
