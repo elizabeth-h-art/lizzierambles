@@ -46,3 +46,5 @@ As a result, the new Republic consists of three provinces under democratic contr
 # Conclusion
 
 Hopefully, you enjoyed this brief summary of my worldbuilding project thus far. This project is expansive, and I intend to expand it ever more, but the most important part of the project to my mind is internal consistency and thematic coherence. I hope that the worldbuilders reading this (you know who you are!) can be inspired by it and pull a few ideas to make their own projects more colourful. After all, learning from each other is the most important thing we can do.
+
+[back to blog](/blog)
