@@ -1,4 +1,4 @@
-# Article
+# Worldbuilder's Log: An Introduction to Ithkar
 
 ![Map of Ithkar](/assets/Ithkar.jpeg)
 
