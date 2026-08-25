@@ -1,5 +1,6 @@
-# Bristol's Roleplaying Heritage
-
+---
+title: Bristol's Roleplaying Heritage
+---
 
 I was poring over my recently acquired copy of *The Elusive Shift* when something caught my eye. Bristol, the city that I study in and consider my home, was actually the site of some of the critical developments that transformed skirmish wargames (in which a player controls units that represent just a single character) into the very first role playing games. This article is about the parts of that history that I take pride in, and the parts of it that I'm glad we're moving on from.
 
