@@ -4,3 +4,7 @@ body {
   font-family: Verdana;
   font-size: 10vw;
 }
+img {
+  width: 100%;
+  height: auto;
+}
