@@ -1,6 +1,8 @@
 body {
-  margin-left: 25%;
-  margin-right: 25%;
+  @media screen and (min-width: 800px) {
+    margin-left: 25%;
+    margin-right: 25%;
+  }
   font-family: Verdana;
 }
 img {
