@@ -1,1 +1,6 @@
-
+body {
+  width: 50%;
+  margins: auto;
+  font-family: "Times New Roman";
+  background-colour: black;
+}
