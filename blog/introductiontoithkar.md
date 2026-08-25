@@ -1,4 +1,6 @@
-# Worldbuilder's Log: An Introduction to Ithkar
+---
+title: Worldbuilder's Log: An Introduction to Ithkar
+---
 
 ![Map of Ithkar](/assets/Ithkar.jpeg)
 
