@@ -9,6 +9,3 @@ welcome to my blog! the main content here will probably consist of book and albu
 15 August 2026: [Bristol's Roleplaying Heritage](/blog/bristolroleplaying)
 
 08 August 2026: [Review: Perdido Street Station](/blog/perdidostreetstation)
-
-
-[home](/index) [blog](/blog) [contact](/contact)
