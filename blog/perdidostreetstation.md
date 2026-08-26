@@ -1,5 +1,5 @@
 ---
-title: Review: Perdido Street Station
+title: "Review: Perdido Street Station"
 ---
 
 I want to talk about one of my favourite speculative fiction experiences of this year: China Miéville's scintillating, intoxicating, *sickening* turn-of-the-millennium novel *Perdido Street Station* — one of those rare fantasy epics that mostly justifies it's blisteringly long page count. Perdido Street Station sits prettily at 867 pages, which for any other genre would be considered farcically long (that's 70% of the way to *War and Peace*!) but in modern fantasy is pretty standard fare. Although I'm happy to argue for hours on end that most fantasy books shouldn't be as long as they are, that's a discussion for another day. *Perdido Street Station* is a book that has me asking more fundamental questions, like: *do I have any business calling this a fantasy book at all?*
